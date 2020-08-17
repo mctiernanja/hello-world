@@ -1,2 +1,2 @@
 # hello-world
-Just another repository
+I am Jimmy. I am learning Git and GitHub!
